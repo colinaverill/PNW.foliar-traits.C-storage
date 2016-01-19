@@ -1,0 +1,469 @@
+PROJECT,YEAR,MONTH,DAY,ECOREGION,CLUSTER,PLOT_ID,PLOT_ID_ALT,PLOT_ID_AMERIFLUX,LATITUDE,LONGITUDE,ELEVATION,MAT,MAP,SOIL_DEPTH,SOIL_LAYER,UPPER_DEPTH_OF_SOIL_LAYER,LOWER_DEPTH_OF_SOIL_LAYER,BULK_DENSITY_OF_SOIL_LAYER,CARBON_CONTENT_OF_SOIL_LAYEL,NITROGEN_CONTENT_OF_SOIL_LAYER,PH_OF_SOIL_LAYER,VOLUME_FRACTION_OF_SAND_IN_SOIL_LAYER,VOLUME_FRACTION_OF_SILT_IN_SOIL_LAYER,VOLUME_FRACTION_OF_CLAY_IN_SOIL_LAYER
+,,,,,,,,,decimal degree,decimal degree,m,degree C,mm,cm,,cm,cm,kg/m2,gC/m2,gN/m2,,percent,percent,percent
+EPA,2001,10,3,Coast Range,Cascade Head,1,none,none,45.1024,-123.8816,227,10.4,2489,85,top,0,20,110,10020,630,4.73,47,42,11
+EPA,2001,10,3,Coast Range,Cascade Head,1,none,none,45.1024,-123.8816,227,10.4,2489,85,middle,20,50,198,11190,710,4.77,46,39,15
+EPA,2001,10,3,Coast Range,Cascade Head,1,none,none,45.1024,-123.8816,227,10.4,2489,85,bottom,50,100,510,18580,1150,4.83,43,39,18
+EPA,2001,8,8,Coast Range,Cascade Head,2,none,none,45.0974,-123.8972,320,10.29,2572,81,top,0,20,66,12780,590,4.33,58,30,12
+EPA,2001,8,8,Coast Range,Cascade Head,2,none,none,45.0974,-123.8972,320,10.29,2572,81,middle,20,50,147,17410,820,4.97,52,39,9
+EPA,2001,8,8,Coast Range,Cascade Head,2,none,none,45.0974,-123.8972,320,10.29,2572,81,bottom,50,100,380,24480,1330,5.15,47,42,11
+EPA,2001,7,27,Coast Range,Cascade Head,3,none,none,45.1122,-123.8841,138,10.32,2562,94,top,0,20,108,8800,460,4.48,43,35,22
+EPA,2001,7,27,Coast Range,Cascade Head,3,none,none,45.1122,-123.8841,138,10.32,2562,94,middle,20,50,180,9030,490,4.69,34,33,33
+EPA,2001,7,27,Coast Range,Cascade Head,3,none,none,45.1122,-123.8841,138,10.32,2562,94,bottom,50,100,455,13390,730,4.76,37,26,37
+EPA,2001,9,19,Coast Range,Cascade Head,6,none,none,45.0894,-123.8816,344,10.16,2665,100,top,0,20,82,9620,420,4.5,49,34,17
+EPA,2001,9,19,Coast Range,Cascade Head,6,none,none,45.0894,-123.8816,344,10.16,2665,100,middle,20,50,243,10050,560,4.9,37,40,23
+EPA,2001,9,19,Coast Range,Cascade Head,6,none,none,45.0894,-123.8816,344,10.16,2665,100,bottom,50,100,540,8770,520,5.07,36,36,28
+EPA,2001,9,19,Coast Range,Cascade Head,7,none,none,45.092,-123.8807,319,10.16,2665,100,top,0,20,86,8340,480,4.47,55,36,9
+EPA,2001,9,19,Coast Range,Cascade Head,7,none,none,45.092,-123.8807,319,10.16,2665,100,middle,20,50,186,11310,610,4.59,46,38,16
+EPA,2001,9,19,Coast Range,Cascade Head,7,none,none,45.092,-123.8807,319,10.16,2665,100,bottom,50,100,460,13090,760,4.91,45,33,22
+EPA,2001,9,20,Coast Range,Cascade Head,9,none,none,45.0699,-123.8949,241,9.95,2827,78,top,0,20,102,12310,650,4.53,54,33,13
+EPA,2001,9,20,Coast Range,Cascade Head,9,none,none,45.0699,-123.8949,241,9.95,2827,78,middle,20,50,141,7610,440,4.63,42,32,26
+EPA,2001,9,20,Coast Range,Cascade Head,9,none,none,45.0699,-123.8949,241,9.95,2827,78,bottom,50,100,220,6470,360,4.63,35,30,35
+EPA,2001,9,20,Coast Range,Cascade Head,10,none,none,45.0679,-123.8882,272,9.95,2827,100,top,0,20,98,13380,680,4.4,53,33,14
+EPA,2001,9,20,Coast Range,Cascade Head,10,none,none,45.0679,-123.8882,272,9.95,2827,100,middle,20,50,204,14630,880,4.83,42,37,21
+EPA,2001,9,20,Coast Range,Cascade Head,10,none,none,45.0679,-123.8882,272,9.95,2827,100,bottom,50,100,340,15940,1000,4.9,32,40,28
+EPA,2001,7,28,Coast Range,Cascade Head,11,none,none,45.0819,-123.9038,281,9.95,2827,100,top,0,20,78,9780,510,4.59,54,39,7
+EPA,2001,7,28,Coast Range,Cascade Head,11,none,none,45.0819,-123.9038,281,9.95,2827,100,middle,20,50,177,12360,680,5.01,39,46,15
+EPA,2001,7,28,Coast Range,Cascade Head,11,none,none,45.0819,-123.9038,281,9.95,2827,100,bottom,50,100,330,8760,880,5.19,48,40,12
+EPA,2001,10,6,Coast Range,Cascade Head,12,none,none,45.0445,-123.9007,267,10,2539,67,top,0,20,98,17360,710,4.87,56,37,7
+EPA,2001,10,6,Coast Range,Cascade Head,12,none,none,45.0445,-123.9007,267,10,2539,67,middle,20,50,162,17970,800,5.13,60,34,6
+EPA,2001,10,6,Coast Range,Cascade Head,12,none,none,45.0445,-123.9007,267,10,2539,67,bottom,50,100,180,13370,670,5.3,62,32,6
+EPA,2001,8,23,Cascades,HJ Andrews,13,none,none,44.2576,-122.2012,809,9.22,2152,100,top,0,20,94,5100,160,5.71,-9999,-9999,-9999
+EPA,2001,8,23,Cascades,HJ Andrews,13,none,none,44.2576,-122.2012,809,9.22,2152,100,middle,20,50,207,4880,200,5.64,-9999,-9999,-9999
+EPA,2001,8,23,Cascades,HJ Andrews,13,none,none,44.2576,-122.2012,809,9.22,2152,100,bottom,50,100,400,4190,220,5.56,-9999,-9999,-9999
+EPA,2001,8,23,Cascades,HJ Andrews,14,none,none,44.2515,-122.2018,835,9.22,2152,77,top,0,20,144,8630,300,5.63,51,32,17
+EPA,2001,8,23,Cascades,HJ Andrews,14,none,none,44.2515,-122.2018,835,9.22,2152,77,middle,20,50,303,4870,230,5.9,36,39,25
+EPA,2001,8,23,Cascades,HJ Andrews,14,none,none,44.2515,-122.2018,835,9.22,2152,77,bottom,50,100,420,4220,210,5.83,32,39,29
+EPA,2001,9,15,Cascades,HJ Andrews,15,none,none,44.2588,-122.2041,784,9.22,2152,65,top,0,20,154,7110,180,5.57,43,39,18
+EPA,2001,9,15,Cascades,HJ Andrews,15,none,none,44.2588,-122.2041,784,9.22,2152,65,middle,20,50,261,5750,210,5.73,41,40,19
+EPA,2001,9,15,Cascades,HJ Andrews,15,none,none,44.2588,-122.2041,784,9.22,2152,65,bottom,50,100,310,4580,160,5.73,-9999,-9999,-9999
+EPA,2001,8,23,Cascades,HJ Andrews,16,none,none,44.2477,-122.1974,777,9.31,2181,80,top,0,20,160,5150,190,5.47,29,49,22
+EPA,2001,8,23,Cascades,HJ Andrews,16,none,none,44.2477,-122.1974,777,9.31,2181,80,middle,20,50,354,5580,260,5.5,26,49,25
+EPA,2001,8,23,Cascades,HJ Andrews,16,none,none,44.2477,-122.1974,777,9.31,2181,80,bottom,50,100,445,8970,220,5.4,25,47,28
+EPA,2001,8,22,Cascades,HJ Andrews,17,none,none,44.2347,-122.1766,731,9.22,2152,55,top,0,20,136,6280,170,5.73,41,44,15
+EPA,2001,8,22,Cascades,HJ Andrews,17,none,none,44.2347,-122.1766,731,9.22,2152,55,middle,20,50,171,7420,160,5.47,48,39,13
+EPA,2001,8,22,Cascades,HJ Andrews,17,none,none,44.2347,-122.1766,731,9.22,2152,55,bottom,50,100,650,6500,320,5.9,34,40,26
+EPA,2001,9,14,Cascades,HJ Andrews,18,none,none,44.2548,-122.1827,815,9.22,2152,75,top,0,20,118,5580,200,5.57,41,42,17
+EPA,2001,9,14,Cascades,HJ Andrews,18,none,none,44.2548,-122.1827,815,9.22,2152,75,middle,20,50,303,4850,200,5.57,34,39,27
+EPA,2001,9,14,Cascades,HJ Andrews,18,none,none,44.2548,-122.1827,815,9.22,2152,75,bottom,50,100,630,4220,320,5.57,30,39,31
+EPA,2001,9,24,Cascades,HJ Andrews,19,none,none,44.2705,-122.2173,742,9.56,2187,65,top,0,20,62,5440,110,5.13,63,27,10
+EPA,2001,9,24,Cascades,HJ Andrews,19,none,none,44.2705,-122.2173,742,9.56,2187,65,middle,20,50,81,3570,70,5.13,-9999,-9999,-9999
+EPA,2001,9,24,Cascades,HJ Andrews,19,none,none,44.2705,-122.2173,742,9.56,2187,65,bottom,50,100,100,2840,50,5.13,-9999,-9999,-9999
+EPA,2001,9,24,Cascades,HJ Andrews,20,none,none,44.2699,-122.2265,896,9.56,2187,68,top,0,20,60,3840,120,5.2,68,21,11
+EPA,2001,9,24,Cascades,HJ Andrews,20,none,none,44.2699,-122.2265,896,9.56,2187,68,middle,20,50,144,4050,150,5.33,51,29,20
+EPA,2001,9,24,Cascades,HJ Andrews,20,none,none,44.2699,-122.2265,896,9.56,2187,68,bottom,50,100,270,3330,150,5.65,45,34,21
+EPA,2001,8,23,Cascades,HJ Andrews,21,none,none,44.2626,-122.1944,879,9.22,2152,100,top,0,20,104,6480,200,5.58,49,38,13
+EPA,2001,8,23,Cascades,HJ Andrews,21,none,none,44.2626,-122.1944,879,9.22,2152,100,middle,20,50,174,4710,180,5.68,38,45,17
+EPA,2001,8,23,Cascades,HJ Andrews,21,none,none,44.2626,-122.1944,879,9.22,2152,100,bottom,50,100,265,3660,180,5.74,38,40,22
+EPA,2001,8,23,Cascades,HJ Andrews,22,none,none,44.2479,-122.2008,822,9.31,2181,77,top,0,20,138,7950,270,5.83,41,44,15
+EPA,2001,8,23,Cascades,HJ Andrews,22,none,none,44.2479,-122.2008,822,9.31,2181,77,middle,20,50,207,4740,190,5.77,28,44,28
+EPA,2001,8,23,Cascades,HJ Andrews,22,none,none,44.2479,-122.2008,822,9.31,2181,77,bottom,50,100,405,4280,220,5.8,17,51,32
+EPA,2001,8,22,Cascades,HJ Andrews,23,none,none,44.2334,-122.1731,772,9.22,2152,100,top,0,20,146,6840,230,5.6,36,40,24
+EPA,2001,8,22,Cascades,HJ Andrews,23,none,none,44.2334,-122.1731,772,9.22,2152,100,middle,20,50,279,6080,250,5.7,34,43,23
+EPA,2001,8,22,Cascades,HJ Andrews,23,none,none,44.2334,-122.1731,772,9.22,2152,100,bottom,50,100,540,6570,320,5.63,26,44,30
+EPA,2001,9,14,Cascades,HJ Andrews,24,none,none,44.2587,-122.1818,853,9.22,2152,100,top,0,20,146,4780,170,5.61,40,43,17
+EPA,2001,9,14,Cascades,HJ Andrews,24,none,none,44.2587,-122.1818,853,9.22,2152,100,middle,20,50,270,4160,190,5.74,34,44,22
+EPA,2001,9,14,Cascades,HJ Andrews,24,none,none,44.2587,-122.1818,853,9.22,2152,100,bottom,50,100,540,4600,230,5.82,33,41,26
+EPA,2001,8,16,Eastern Cascades Slopes and Foothills,Metolius River,25,820,US-Me5,44.4371,-121.5679,1188,7.9,482,87,top,0,20,192,3700,130,6.54,70,27,3
+EPA,2001,8,16,Eastern Cascades Slopes and Foothills,Metolius River,25,820,US-Me5,44.4371,-121.5679,1188,7.9,482,87,middle,20,50,300,1850,90,6.96,67,30,3
+EPA,2001,8,16,Eastern Cascades Slopes and Foothills,Metolius River,25,820,US-Me5,44.4371,-121.5679,1188,7.9,482,87,bottom,50,100,415,1930,100,7.02,-9999,-9999,-9999
+EPA,2001,8,20,Eastern Cascades Slopes and Foothills,Metolius River,26,none,none,44.4508,-121.6908,941,7.84,521,100,top,0,20,206,5090,150,6.53,77,20,3
+EPA,2001,8,20,Eastern Cascades Slopes and Foothills,Metolius River,26,none,none,44.4508,-121.6908,941,7.84,521,100,middle,20,50,351,3810,150,6.93,78,20,2
+EPA,2001,8,20,Eastern Cascades Slopes and Foothills,Metolius River,26,none,none,44.4508,-121.6908,941,7.84,521,100,bottom,50,100,625,3790,140,7.1,74,23,3
+EPA,2001,9,3,Eastern Cascades Slopes and Foothills,Metolius River,27,none,none,44.4327,-121.6104,1138,7.68,542,70,top,0,20,192,3370,100,6.83,76,20,4
+EPA,2001,9,3,Eastern Cascades Slopes and Foothills,Metolius River,27,none,none,44.4327,-121.6104,1138,7.68,542,70,middle,20,50,324,1780,100,7.2,75,20,5
+EPA,2001,9,3,Eastern Cascades Slopes and Foothills,Metolius River,27,none,none,44.4327,-121.6104,1138,7.68,542,70,bottom,50,100,170,590,30,7.45,71,22,7
+EPA,2001,9,2,Eastern Cascades Slopes and Foothills,Metolius River,28,810,none,44.4277,-121.5852,1129,7.9,482,63,top,0,20,160,1530,80,6.73,76,21,3
+EPA,2001,9,2,Eastern Cascades Slopes and Foothills,Metolius River,28,810,none,44.4277,-121.5852,1129,7.9,482,63,middle,20,50,360,2290,110,6.83,70,26,4
+EPA,2001,9,2,Eastern Cascades Slopes and Foothills,Metolius River,28,810,none,44.4277,-121.5852,1129,7.9,482,63,bottom,50,100,190,850,40,6.9,-9999,-9999,-9999
+EPA,2001,9,2,Eastern Cascades Slopes and Foothills,Metolius River,29,none,none,44.4373,-121.587,1177,7.8,498,77,top,0,20,142,2610,70,6.63,73,18,9
+EPA,2001,9,2,Eastern Cascades Slopes and Foothills,Metolius River,29,none,none,44.4373,-121.587,1177,7.8,498,77,middle,20,50,252,3090,80,6.8,70,24,6
+EPA,2001,9,2,Eastern Cascades Slopes and Foothills,Metolius River,29,none,none,44.4373,-121.587,1177,7.8,498,77,bottom,50,100,385,3210,60,6.9,55,36,9
+EPA,2001,8,17,Eastern Cascades Slopes and Foothills,Metolius River,30,811,US-Me2,44.4513,-121.5575,1254,7.16,600,90,top,0,20,200,4230,140,6.6,69,24,7
+EPA,2001,8,17,Eastern Cascades Slopes and Foothills,Metolius River,30,811,US-Me2,44.4513,-121.5575,1254,7.16,600,90,middle,20,50,300,2220,100,6.82,66,27,7
+EPA,2001,8,17,Eastern Cascades Slopes and Foothills,Metolius River,30,811,US-Me2,44.4513,-121.5575,1254,7.16,600,90,bottom,50,100,395,1740,90,6.97,-9999,-9999,-9999
+EPA,2001,8,21,Eastern Cascades Slopes and Foothills,Metolius River,31,816,none,44.434,-121.6701,925,7.84,521,80,top,0,20,138,3730,100,6.53,69,26,5
+EPA,2001,8,21,Eastern Cascades Slopes and Foothills,Metolius River,31,816,none,44.434,-121.6701,925,7.84,521,80,middle,20,50,273,3430,100,6.8,68,27,5
+EPA,2001,8,21,Eastern Cascades Slopes and Foothills,Metolius River,31,816,none,44.434,-121.6701,925,7.84,521,80,bottom,50,100,475,3970,80,7.03,65,30,5
+EPA,2001,8,20,Eastern Cascades Slopes and Foothills,Metolius River,32,806,none,44.4526,-121.6691,920,7.84,521,77,top,0,20,172,3510,90,6.43,76,20,4
+EPA,2001,8,20,Eastern Cascades Slopes and Foothills,Metolius River,32,806,none,44.4526,-121.6691,920,7.84,521,77,middle,20,50,252,2370,80,6.9,74,23,3
+EPA,2001,8,20,Eastern Cascades Slopes and Foothills,Metolius River,32,806,none,44.4526,-121.6691,920,7.84,521,77,bottom,50,100,395,1830,80,6.9,75,22,3
+EPA,2001,8,21,Eastern Cascades Slopes and Foothills,Metolius River,33,817,none,44.4634,-121.6634,891,7.56,597,88,top,0,20,138,2720,70,6.5,71,24,5
+EPA,2001,8,21,Eastern Cascades Slopes and Foothills,Metolius River,33,817,none,44.4634,-121.6634,891,7.56,597,88,middle,20,50,261,2320,80,6.83,69,27,4
+EPA,2001,8,21,Eastern Cascades Slopes and Foothills,Metolius River,33,817,none,44.4634,-121.6634,891,7.56,597,88,bottom,50,100,550,3000,70,7.1,63,33,4
+EPA,2001,8,21,Eastern Cascades Slopes and Foothills,Metolius River,34,801,US-Me4,44.4982,-121.6249,914,7.95,581,100,top,0,20,176,2590,80,6.76,66,25,9
+EPA,2001,8,21,Eastern Cascades Slopes and Foothills,Metolius River,34,801,US-Me4,44.4982,-121.6249,914,7.95,581,100,middle,20,50,327,1580,100,7.09,64,27,9
+EPA,2001,8,21,Eastern Cascades Slopes and Foothills,Metolius River,34,801,US-Me4,44.4982,-121.6249,914,7.95,581,100,bottom,50,100,515,1390,100,7.28,-9999,-9999,-9999
+EPA,2001,8,21,Eastern Cascades Slopes and Foothills,Metolius River,35,802,none,44.5005,-121.6237,907,7.32,683,60,top,0,20,142,2060,70,6.87,68,28,4
+EPA,2001,8,21,Eastern Cascades Slopes and Foothills,Metolius River,35,802,none,44.5005,-121.6237,907,7.32,683,60,middle,20,50,273,1570,80,7.13,67,29,4
+EPA,2001,8,21,Eastern Cascades Slopes and Foothills,Metolius River,35,802,none,44.5005,-121.6237,907,7.32,683,60,bottom,50,100,445,2470,90,7.1,59,35,6
+EPA,2001,9,3,Eastern Cascades Slopes and Foothills,Metolius River,36,none,none,44.4222,-121.6066,1148,7.47,599,63,top,0,20,156,3670,80,6.47,72,26,2
+EPA,2001,9,3,Eastern Cascades Slopes and Foothills,Metolius River,36,none,none,44.4222,-121.6066,1148,7.47,599,63,middle,20,50,213,2200,60,6.6,67,29,4
+EPA,2001,9,3,Eastern Cascades Slopes and Foothills,Metolius River,36,none,none,44.4222,-121.6066,1148,7.47,599,63,bottom,50,100,410,2350,80,6.8,53,40,7
+EPA,2001,7,24,Cascades,Lookout Mountains,37,none,none,45.8708,-122.097,1228,6.66,2607,50,middle,0,20,142,15890,530,5.07,63,31,6
+EPA,2001,7,24,Cascades,Lookout Mountains,37,none,none,45.8708,-122.097,1228,6.66,2607,50,bottom,20,50,186,14010,470,5.13,59,34,7
+EPA,2001,7,24,Cascades,Lookout Mountains,38,none,none,45.849,-122.0274,601,7.5,2507,82,top,0,20,82,6100,170,5.27,68,23,9
+EPA,2001,7,24,Cascades,Lookout Mountains,38,none,none,45.849,-122.0274,601,7.5,2507,82,middle,20,50,204,8410,250,5.9,58,30,12
+EPA,2001,7,24,Cascades,Lookout Mountains,38,none,none,45.849,-122.0274,601,7.5,2507,82,bottom,50,100,345,6970,280,6.07,52,34,14
+EPA,2001,7,25,Cascades,Lookout Mountains,39,none,none,45.8596,-122.0736,957,6.66,2607,63,top,0,20,108,5360,120,5.03,58,33,9
+EPA,2001,7,25,Cascades,Lookout Mountains,39,none,none,45.8596,-122.0736,957,6.66,2607,63,middle,20,50,186,7270,190,5.33,57,35,8
+EPA,2001,7,25,Cascades,Lookout Mountains,39,none,none,45.8596,-122.0736,957,6.66,2607,63,bottom,50,100,180,4940,140,5.25,-9999,-9999,-9999
+EPA,2001,7,26,Cascades,Lookout Mountains,40,none,none,45.8141,-122.0101,632,8.61,2393,50,middle,0,20,66,9940,160,4.67,61,32,7
+EPA,2001,7,26,Cascades,Lookout Mountains,40,none,none,45.8141,-122.0101,632,8.61,2393,50,bottom,20,50,96,9950,150,4.67,-9999,-9999,-9999
+EPA,2001,7,26,Cascades,Lookout Mountains,41,none,none,45.8344,-122.0899,1024,7.43,2698,50,middle,0,20,72,6500,190,5,65,28,7
+EPA,2001,7,26,Cascades,Lookout Mountains,41,none,none,45.8344,-122.0899,1024,7.43,2698,50,bottom,20,50,147,8960,280,5,-9999,-9999,-9999
+EPA,2001,7,25,Cascades,Lookout Mountains,42,none,none,45.8464,-122.1093,1200,7.68,2839,50,middle,0,20,80,8870,410,4.6,66,28,6
+EPA,2001,7,25,Cascades,Lookout Mountains,42,none,none,45.8464,-122.1093,1200,7.68,2839,50,bottom,20,50,174,16000,700,4.7,60,30,10
+EPA,2001,6,26,Cascades,Breitenbush Hot Springs,43,none,none,44.7824,-121.8975,1426,7.36,1951,50,middle,0,20,72,10570,280,5.03,46,46,8
+EPA,2001,6,26,Cascades,Breitenbush Hot Springs,43,none,none,44.7824,-121.8975,1426,7.36,1951,50,bottom,20,50,132,13110,340,5.23,47,47,6
+EPA,2001,8,16,Cascades,Breitenbush Hot Springs,44,none,none,44.8006,-121.9901,889,8.07,1856,93,top,0,20,70,3130,100,5.7,41,35,24
+EPA,2001,8,16,Cascades,Breitenbush Hot Springs,44,none,none,44.8006,-121.9901,889,8.07,1856,93,middle,20,50,192,4420,170,5.4,39,34,27
+EPA,2001,8,16,Cascades,Breitenbush Hot Springs,44,none,none,44.8006,-121.9901,889,8.07,1856,93,bottom,50,100,450,13160,310,5.37,41,35,24
+EPA,2001,7,18,Cascades,Breitenbush Hot Springs,45,none,none,44.763,-121.8859,1476,7.24,1950,50,middle,0,20,74,6360,120,5.1,55,35,10
+EPA,2001,7,18,Cascades,Breitenbush Hot Springs,45,none,none,44.763,-121.8859,1476,7.24,1950,50,bottom,20,50,129,9060,160,5.1,-9999,-9999,-9999
+EPA,2001,7,17,Cascades,Breitenbush Hot Springs,46,none,none,44.7894,-121.9945,831,8.18,1850,78,top,0,20,68,7900,140,4.9,56,35,9
+EPA,2001,7,17,Cascades,Breitenbush Hot Springs,46,none,none,44.7894,-121.9945,831,8.18,1850,78,middle,20,50,105,4600,130,5.23,48,42,10
+EPA,2001,7,17,Cascades,Breitenbush Hot Springs,46,none,none,44.7894,-121.9945,831,8.18,1850,78,bottom,50,100,420,4310,150,5.65,40,47,13
+EPA,2001,7,17,Cascades,Breitenbush Hot Springs,47,none,none,44.7723,-121.9007,1303,7.36,1951,55,top,0,20,76,3170,50,5.17,46,48,6
+EPA,2001,7,17,Cascades,Breitenbush Hot Springs,47,none,none,44.7723,-121.9007,1303,7.36,1951,55,middle,20,50,111,2830,40,5.17,-9999,-9999,-9999
+EPA,2001,7,17,Cascades,Breitenbush Hot Springs,47,none,none,44.7723,-121.9007,1303,7.36,1951,55,bottom,50,100,125,2420,20,5.1,-9999,-9999,-9999
+EPA,2001,7,17,Cascades,Breitenbush Hot Springs,48,none,none,44.7855,-121.8935,1386,7.35,1938,50,middle,0,20,64,5140,120,5.37,50,44,6
+EPA,2001,7,17,Cascades,Breitenbush Hot Springs,48,none,none,44.7855,-121.8935,1386,7.35,1938,50,bottom,20,50,150,8140,190,5.37,-9999,-9999,-9999
+EPA,2001,8,15,Cascades,Battle Ax,49,none,none,44.7782,-122.1476,1321,8,2534,50,top,0,20,62,23740,420,4.4,-9999,-9999,-9999
+EPA,2001,8,15,Cascades,Battle Ax,49,none,none,44.7782,-122.1476,1321,8,2534,50,middle,20,50,111,11030,210,4.4,-9999,-9999,-9999
+EPA,2001,8,15,Cascades,Battle Ax,50,none,none,44.8094,-122.2324,1032,8.51,2484,63,top,0,20,56,6380,190,4.8,56,36,8
+EPA,2001,8,15,Cascades,Battle Ax,50,none,none,44.8094,-122.2324,1032,8.51,2484,63,middle,20,50,117,9780,280,5.07,53,43,4
+EPA,2001,8,15,Cascades,Battle Ax,50,none,none,44.8094,-122.2324,1032,8.51,2484,63,bottom,50,100,235,3760,260,5.7,-9999,-9999,-9999
+EPA,2001,8,15,Cascades,Battle Ax,52,none,none,44.8285,-122.2429,773,8.51,2484,57,top,0,20,82,7800,170,4.53,49,41,10
+EPA,2001,8,15,Cascades,Battle Ax,52,none,none,44.8285,-122.2429,773,8.51,2484,57,middle,20,50,162,5730,140,4.87,49,40,11
+EPA,2001,8,15,Cascades,Battle Ax,52,none,none,44.8285,-122.2429,773,8.51,2484,57,bottom,50,100,485,9310,240,5.2,39,44,17
+EPA,2001,8,15,Cascades,Battle Ax,53,none,none,44.836,-122.2246,1039,7.84,2501,50,top,0,20,20,2980,60,4.33,66,29,5
+EPA,2001,8,15,Cascades,Battle Ax,53,none,none,44.836,-122.2246,1039,7.84,2501,50,middle,20,50,123,7580,170,4.33,-9999,-9999,-9999
+EPA,2001,8,14,Cascades,Battle Ax,54,none,none,44.8386,-122.2342,984,8.51,2484,50,top,0,20,18,4760,90,3.87,62,34,4
+EPA,2001,8,14,Cascades,Battle Ax,54,none,none,44.8386,-122.2342,984,8.51,2484,50,middle,20,50,111,22710,410,3.87,-9999,-9999,-9999
+EPA,2001,8,21,Cascades,Mount Jefferson,55,none,none,44.7035,-121.873,1229,6.64,2102,50,top,0,20,104,7790,180,5.2,73,24,3
+EPA,2001,8,21,Cascades,Mount Jefferson,55,none,none,44.7035,-121.873,1229,6.64,2102,50,middle,20,50,156,8940,180,5.2,-9999,-9999,-9999
+EPA,2001,8,21,Cascades,Mount Jefferson,56,none,none,44.6877,-121.8699,1163,6.64,2102,50,top,0,20,100,4630,100,5.5,69,28,3
+EPA,2001,8,21,Cascades,Mount Jefferson,56,none,none,44.6877,-121.8699,1163,6.64,2102,50,middle,20,50,129,4450,100,5.57,-9999,-9999,-9999
+EPA,2001,8,21,Cascades,Mount Jefferson,57,none,none,44.7004,-121.8761,1094,6.64,2102,50,top,0,20,64,7100,230,5.57,73,24,3
+EPA,2001,8,21,Cascades,Mount Jefferson,57,none,none,44.7004,-121.8761,1094,6.64,2102,50,middle,20,50,126,10560,350,5.5,71,25,4
+EPA,2001,8,22,Cascades,Mount Jefferson,59,none,none,44.6882,-121.865,1192,6.58,2117,63,top,0,20,94,22950,430,4.47,68,29,3
+EPA,2001,8,22,Cascades,Mount Jefferson,59,none,none,44.6882,-121.865,1192,6.58,2117,63,middle,20,50,159,19620,350,4.8,70,27,3
+EPA,2001,8,22,Cascades,Mount Jefferson,59,none,none,44.6882,-121.865,1192,6.58,2117,63,bottom,50,100,120,7020,120,4.7,-9999,-9999,-9999
+EPA,2001,6,15,Cascades,Mount Jefferson,60,none,none,44.6958,-121.8698,1076,6.64,2102,53,top,0,20,96,17640,250,4.33,80,17,3
+EPA,2001,6,15,Cascades,Mount Jefferson,60,none,none,44.6958,-121.8698,1076,6.64,2102,53,middle,20,50,273,17150,210,4.73,83,14,3
+EPA,2001,6,15,Cascades,Mount Jefferson,60,none,none,44.6958,-121.8698,1076,6.64,2102,53,bottom,50,100,450,9720,220,5.1,84,14,2
+EPA,2001,6,19,Cascades,Mill City,61,none,none,44.644,-122.4507,1093,9.31,2312,67,top,0,20,62,9490,200,4.8,63,28,9
+EPA,2001,6,19,Cascades,Mill City,61,none,none,44.644,-122.4507,1093,9.31,2312,67,middle,20,50,249,9640,270,5.17,39,47,14
+EPA,2001,6,19,Cascades,Mill City,61,none,none,44.644,-122.4507,1093,9.31,2312,67,bottom,50,100,460,5930,90,5.3,33,55,12
+EPA,2001,6,15,Cascades,Mill City,62,none,none,44.6886,-122.4967,494,9.49,2222,95,top,0,20,170,7860,390,5.4,35,41,24
+EPA,2001,6,15,Cascades,Mill City,62,none,none,44.6886,-122.4967,494,9.49,2222,95,middle,20,50,327,9120,450,5.4,31,40,29
+EPA,2001,6,15,Cascades,Mill City,62,none,none,44.6886,-122.4967,494,9.49,2222,95,bottom,50,100,510,4650,260,5.4,29,37,34
+EPA,2001,6,20,Cascades,Mill City,63,none,none,44.6358,-122.4955,854,9.2,2358,77,top,0,20,60,6210,190,5.17,59,32,9
+EPA,2001,6,20,Cascades,Mill City,63,none,none,44.6358,-122.4955,854,9.2,2358,77,middle,20,50,219,11460,400,5.4,49,37,14
+EPA,2001,6,20,Cascades,Mill City,63,none,none,44.6358,-122.4955,854,9.2,2358,77,bottom,50,100,590,9660,340,5.2,40,41,19
+EPA,2001,6,20,Cascades,Mill City,64,none,none,44.7248,-122.4212,569,10.58,1683,55,top,0,20,86,9900,360,5.7,50,41,9
+EPA,2001,6,20,Cascades,Mill City,64,none,none,44.7248,-122.4212,569,10.58,1683,55,middle,20,50,249,18020,650,5.8,46,43,11
+EPA,2001,6,20,Cascades,Mill City,64,none,none,44.7248,-122.4212,569,10.58,1683,55,bottom,50,100,505,15400,860,6.3,30,52,18
+EPA,2001,6,19,Cascades,Mill City,65,none,none,44.7301,-122.3909,470,9.91,1938,100,top,0,20,100,7260,280,5.57,44,38,18
+EPA,2001,6,19,Cascades,Mill City,65,none,none,44.7301,-122.3909,470,9.91,1938,100,middle,20,50,228,8810,390,5.53,35,39,26
+EPA,2001,6,19,Cascades,Mill City,65,none,none,44.7301,-122.3909,470,9.91,1938,100,bottom,50,100,530,8980,400,5.57,30,39,31
+EPA,2001,10,25,Cascades,Mill City,66,none,none,44.7019,-122.5,705,9.54,2128,75,top,0,20,156,7060,330,5.7,34,48,18
+EPA,2001,10,25,Cascades,Mill City,66,none,none,44.7019,-122.5,705,9.54,2128,75,middle,20,50,300,7910,370,5.77,30,46,24
+EPA,2001,10,25,Cascades,Mill City,66,none,none,44.7019,-122.5,705,9.54,2128,75,bottom,50,100,730,5420,290,5.55,22,42,36
+EPA,2001,8,8,Coast Range,Hellion Rapids,67,none,none,44.399,-123.7799,473,10.95,2236,100,top,0,20,100,7490,350,5.33,51,34,15
+EPA,2001,8,8,Coast Range,Hellion Rapids,67,none,none,44.399,-123.7799,473,10.95,2236,100,middle,20,50,129,10110,450,5.27,49,36,15
+EPA,2001,8,8,Coast Range,Hellion Rapids,67,none,none,44.399,-123.7799,473,10.95,2236,100,bottom,50,100,235,10820,500,5.4,43,34,23
+EPA,2001,8,7,Coast Range,Hellion Rapids,68,none,none,44.4465,-123.8595,566,10.42,2404,80,top,0,20,58,4050,120,5.03,64,25,11
+EPA,2001,8,7,Coast Range,Hellion Rapids,68,none,none,44.4465,-123.8595,566,10.42,2404,80,middle,20,50,186,6250,200,5.23,56,30,14
+EPA,2001,8,7,Coast Range,Hellion Rapids,68,none,none,44.4465,-123.8595,566,10.42,2404,80,bottom,50,100,475,10350,410,5.3,53,31,16
+EPA,2001,8,8,Coast Range,Hellion Rapids,69,none,none,44.4213,-123.7759,338,11.04,2342,92,top,0,20,82,4640,170,5.47,51,36,13
+EPA,2001,8,8,Coast Range,Hellion Rapids,69,none,none,44.4213,-123.7759,338,11.04,2342,92,middle,20,50,198,6180,260,5.5,43,39,18
+EPA,2001,8,8,Coast Range,Hellion Rapids,69,none,none,44.4213,-123.7759,338,11.04,2342,92,bottom,50,100,415,9640,320,5.3,43,37,20
+EPA,2001,8,9,Coast Range,Hellion Rapids,70,none,none,44.4758,-123.8605,640,10.59,2286,87,top,0,20,90,5700,210,5.3,60,32,8
+EPA,2001,8,9,Coast Range,Hellion Rapids,70,none,none,44.4758,-123.8605,640,10.59,2286,87,middle,20,50,201,6100,220,5.53,55,31,14
+EPA,2001,8,9,Coast Range,Hellion Rapids,70,none,none,44.4758,-123.8605,640,10.59,2286,87,bottom,50,100,490,6710,310,5.47,57,31,12
+EPA,2001,10,17,Coast Range,Hellion Rapids,71,none,none,44.3983,-123.7938,362,10.67,2263,95,top,0,20,56,8260,300,4.7,60,31,9
+EPA,2001,10,17,Coast Range,Hellion Rapids,71,none,none,44.3983,-123.7938,362,10.67,2263,95,middle,20,50,150,8410,380,5.23,41,37,22
+EPA,2001,10,17,Coast Range,Hellion Rapids,71,none,none,44.3983,-123.7938,362,10.67,2263,95,bottom,50,100,270,7980,370,5.17,34,38,28
+EPA,2001,10,17,Cascades,Blue Mountain,73,none,none,43.6776,-122.916,660,10.4,1416,67,top,0,20,120,11000,430,5.63,41,40,19
+EPA,2001,10,17,Cascades,Blue Mountain,73,none,none,43.6776,-122.916,660,10.4,1416,67,middle,20,50,159,12020,470,5.63,30,50,20
+EPA,2001,10,17,Cascades,Blue Mountain,73,none,none,43.6776,-122.916,660,10.4,1416,67,bottom,50,100,355,1140,70,6.7,50,38,12
+EPA,2001,10,18,Cascades,Blue Mountain,74,none,none,43.7362,-122.9288,476,11.08,1231,82,top,0,20,148,5010,250,5.9,36,42,22
+EPA,2001,10,18,Cascades,Blue Mountain,74,none,none,43.7362,-122.9288,476,11.08,1231,82,middle,20,50,327,5610,240,5.67,26,32,42
+EPA,2001,10,18,Cascades,Blue Mountain,74,none,none,43.7362,-122.9288,476,11.08,1231,82,bottom,50,100,580,5830,330,5.53,33,17,50
+EPA,2001,10,16,Cascades,Blue Mountain,75,none,none,43.6915,-122.9297,586,10.89,1355,64,top,0,20,152,3420,140,6.23,35,40,25
+EPA,2001,10,16,Cascades,Blue Mountain,75,none,none,43.6915,-122.9297,586,10.89,1355,64,middle,20,50,306,5810,230,6.47,31,45,24
+EPA,2001,10,16,Cascades,Blue Mountain,75,none,none,43.6915,-122.9297,586,10.89,1355,64,bottom,50,100,565,4240,230,6.1,29,46,25
+EPA,2001,6,14,Cascades,Blue Mountain,76,none,none,43.6943,-122.8992,824,10.18,1460,82,top,0,20,142,6200,220,5.53,34,44,22
+EPA,2001,6,14,Cascades,Blue Mountain,76,none,none,43.6943,-122.8992,824,10.18,1460,82,middle,20,50,255,5200,210,5.47,30,38,32
+EPA,2001,6,14,Cascades,Blue Mountain,76,none,none,43.6943,-122.8992,824,10.18,1460,82,bottom,50,100,555,6140,260,5.5,25,38,37
+EPA,2001,8,2,Cascades,Blue Mountain,77,none,none,43.7037,-122.9292,868,10.86,1358,74,top,0,20,170,6550,320,5.97,46,36,18
+EPA,2001,8,2,Cascades,Blue Mountain,77,none,none,43.7037,-122.9292,868,10.86,1358,74,middle,20,50,366,8010,390,5.7,41,37,22
+EPA,2001,8,2,Cascades,Blue Mountain,77,none,none,43.7037,-122.9292,868,10.86,1358,74,bottom,50,100,650,5960,270,5.7,51,34,15
+EPA,2001,8,1,Cascades,Blue Mountain,78,none,none,43.7062,-122.9356,716,10.93,1348,50,top,0,20,106,14640,520,5.67,53,35,12
+EPA,2001,8,1,Cascades,Blue Mountain,78,none,none,43.7062,-122.9356,716,10.93,1348,50,middle,20,50,117,8700,310,5.83,40,47,13
+EPA,2001,8,1,Cascades,Blue Mountain,78,none,none,43.7062,-122.9356,716,10.93,1348,50,bottom,50,100,225,11950,470,6.3,46,42,12
+EPA,2001,8,1,Cascades,Emigrant Butte,79,none,none,43.4364,-122.2439,1412,6.6,1722,56,top,0,20,64,5020,150,5.7,70,25,5
+EPA,2001,8,1,Cascades,Emigrant Butte,79,none,none,43.4364,-122.2439,1412,6.6,1722,56,middle,20,50,105,4240,170,6.1,74,22,4
+EPA,2001,8,1,Cascades,Emigrant Butte,79,none,none,43.4364,-122.2439,1412,6.6,1722,56,bottom,50,100,415,4150,210,6.2,65,30,5
+EPA,2001,8,1,Cascades,Emigrant Butte,80,none,none,43.5015,-122.2083,1356,7.18,1691,67,top,0,20,94,5860,250,6.17,70,25,5
+EPA,2001,8,1,Cascades,Emigrant Butte,80,none,none,43.5015,-122.2083,1356,7.18,1691,67,middle,20,50,174,6900,310,6.17,70,27,3
+EPA,2001,8,1,Cascades,Emigrant Butte,80,none,none,43.5015,-122.2083,1356,7.18,1691,67,bottom,50,100,115,1750,80,6.3,-9999,-9999,-9999
+EPA,2001,8,2,Cascades,Emigrant Butte,81,none,none,43.4169,-122.1608,1230,6.4,1705,65,top,0,20,72,2280,40,5.33,74,22,4
+EPA,2001,8,2,Cascades,Emigrant Butte,81,none,none,43.4169,-122.1608,1230,6.4,1705,65,middle,20,50,102,1940,50,5.67,78,18,4
+EPA,2001,8,2,Cascades,Emigrant Butte,81,none,none,43.4169,-122.1608,1230,6.4,1705,65,bottom,50,100,275,2810,140,6,72,24,4
+EPA,2001,7,31,Cascades,Emigrant Butte,82,none,none,43.4991,-122.1899,1488,4.19,1876,81,top,0,20,40,1260,30,5.27,71,24,5
+EPA,2001,7,31,Cascades,Emigrant Butte,82,none,none,43.4991,-122.1899,1488,4.19,1876,81,middle,20,50,129,2090,70,5.83,73,24,3
+EPA,2001,7,31,Cascades,Emigrant Butte,82,none,none,43.4991,-122.1899,1488,4.19,1876,81,bottom,50,100,140,2440,70,6.03,65,30,5
+EPA,2001,7,12,Cascades,Emigrant Butte,83,none,none,43.4263,-122.2342,1366,7.87,1636,53,top,0,20,58,3260,80,6,76,16,8
+EPA,2001,7,12,Cascades,Emigrant Butte,83,none,none,43.4263,-122.2342,1366,7.87,1636,53,middle,20,50,126,3800,110,6.07,78,17,5
+EPA,2001,7,12,Cascades,Emigrant Butte,83,none,none,43.4263,-122.2342,1366,7.87,1636,53,bottom,50,100,415,4150,210,6.2,76,19,5
+EPA,2001,7,12,Cascades,Emigrant Butte,84,none,none,43.4949,-122.1896,1460,4.19,1876,64,top,0,20,76,4250,150,5.57,75,20,5
+EPA,2001,7,12,Cascades,Emigrant Butte,84,none,none,43.4949,-122.1896,1460,4.19,1876,64,middle,20,50,135,3240,110,5.87,77,20,3
+EPA,2001,7,12,Cascades,Emigrant Butte,84,none,none,43.4949,-122.1896,1460,4.19,1876,64,bottom,50,100,415,4570,210,5.9,80,17,3
+EPA,2001,7,12,Cascades,Big Butte Springs,85,none,none,42.5853,-122.4062,1050,9.23,1021,50,top,0,20,220,10170,300,6.13,38,53,9
+EPA,2001,7,12,Cascades,Big Butte Springs,85,none,none,42.5853,-122.4062,1050,9.23,1021,50,middle,20,50,354,7440,260,6.23,35,53,12
+EPA,2001,7,12,Cascades,Big Butte Springs,86,none,none,42.586,-122.4478,952,9.46,984,50,bottom,0,20,134,9320,290,6.33,49,43,8
+EPA,2001,7,12,Cascades,Big Butte Springs,86,none,none,42.586,-122.4478,952,9.46,984,50,top,20,50,345,10020,400,6.5,48,42,10
+EPA,2001,7,12,Cascades,Big Butte Springs,87,none,none,42.5601,-122.4966,856,9.64,980,50,middle,0,20,132,5290,160,6.27,44,44,12
+EPA,2001,7,12,Cascades,Big Butte Springs,87,none,none,42.5601,-122.4966,856,9.64,980,50,bottom,20,50,396,7570,270,6.47,33,50,17
+EPA,2001,7,12,Cascades,Big Butte Springs,88,none,none,42.6231,-122.4367,1046,9.16,1068,87,top,0,20,216,4720,180,6.33,48,40,12
+EPA,2001,7,12,Cascades,Big Butte Springs,88,none,none,42.6231,-122.4367,1046,9.16,1068,87,middle,20,50,351,2870,130,6.47,40,44,16
+EPA,2001,7,12,Cascades,Big Butte Springs,88,none,none,42.6231,-122.4367,1046,9.16,1068,87,bottom,50,100,675,4190,130,6.3,35,45,20
+EPA,2001,7,4,Cascades,Big Butte Springs,89,none,none,42.5791,-122.4414,963,9.48,975,52,top,0,20,184,5530,210,6.43,36,49,15
+EPA,2001,7,4,Cascades,Big Butte Springs,89,none,none,42.5791,-122.4414,963,9.48,975,52,middle,20,50,321,5490,210,6.4,31,49,20
+EPA,2001,7,4,Cascades,Big Butte Springs,89,none,none,42.5791,-122.4414,963,9.48,975,52,bottom,50,100,645,5480,190,6.7,53,28,19
+EPA,2001,7,4,Cascades,Big Butte Springs,90,none,none,42.6025,-122.4755,997,9.39,1043,58,top,0,20,116,6900,220,6,62,28,10
+EPA,2001,7,4,Cascades,Big Butte Springs,90,none,none,42.6025,-122.4755,997,9.39,1043,58,middle,20,50,282,5910,230,6.3,56,28,16
+EPA,2001,7,4,Cascades,Big Butte Springs,90,none,none,42.6025,-122.4755,997,9.39,1043,58,bottom,50,100,690,13910,580,6.3,51,30,19
+EPA,2001,7,3,Klamath Mountains/California High North Coast Range,Grants Pass,91,none,none,42.4875,-123.2612,737,11.51,829,50,top,0,20,146,5620,180,5.97,20,66,14
+EPA,2001,7,3,Klamath Mountains/California High North Coast Range,Grants Pass,91,none,none,42.4875,-123.2612,737,11.51,829,50,middle,20,50,159,4100,130,5.97,-9999,-9999,-9999
+EPA,2001,6,3,Klamath Mountains/California High North Coast Range,Grants Pass,92,none,none,42.4778,-123.2612,951,11.57,821,50,top,0,20,84,7700,220,5.73,34,49,17
+EPA,2001,6,3,Klamath Mountains/California High North Coast Range,Grants Pass,92,none,none,42.4778,-123.2612,951,11.57,821,50,middle,20,50,168,10660,310,5.73,-9999,-9999,-9999
+EPA,2001,7,5,Klamath Mountains/California High North Coast Range,Grants Pass,93,none,none,42.4918,-123.2745,771,11.41,842,50,top,0,20,126,7300,170,5.63,25,55,20
+EPA,2001,7,5,Klamath Mountains/California High North Coast Range,Grants Pass,93,none,none,42.4918,-123.2745,771,11.41,842,50,middle,20,50,147,5610,130,5.63,-9999,-9999,-9999
+EPA,2001,6,5,Klamath Mountains/California High North Coast Range,Grants Pass,94,none,none,42.4789,-123.3002,811,11.89,803,50,top,0,20,120,5510,180,6.17,23,63,14
+EPA,2001,6,5,Klamath Mountains/California High North Coast Range,Grants Pass,94,none,none,42.4789,-123.3002,811,11.89,803,50,middle,20,50,144,5250,170,5.83,-9999,-9999,-9999
+EPA,2001,6,5,Klamath Mountains/California High North Coast Range,Grants Pass,95,none,none,42.4723,-123.2642,1026,11.57,821,50,top,0,20,120,3810,130,5.8,29,53,18
+EPA,2001,6,5,Klamath Mountains/California High North Coast Range,Grants Pass,95,none,none,42.4723,-123.2642,1026,11.57,821,50,middle,20,50,126,2660,90,5.8,-9999,-9999,-9999
+EPA,2001,6,5,Klamath Mountains/California High North Coast Range,Grants Pass,96,none,none,42.4725,-123.2665,937,11.57,821,50,top,0,20,206,7800,260,6.4,33,51,16
+EPA,2001,6,5,Klamath Mountains/California High North Coast Range,Grants Pass,96,none,none,42.4725,-123.2665,937,11.57,821,50,middle,20,50,231,5810,200,6.4,-9999,-9999,-9999
+ORCA,2004,9,6,Blue Mountains,Bear Butte,201,none,none,44.2732,-119.7519,1449,6.89,490,-9999,top,0,3,24,810,50,-9999,-9999,-9999,-9999
+ORCA,2004,9,6,Blue Mountains,Bear Butte,202,none,none,44.2474,-119.7074,1428,7.2,429,-9999,top,0,10,52,2520,120,-9999,-9999,-9999,-9999
+ORCA,2004,9,6,Blue Mountains,Bear Butte,202,none,none,44.2474,-119.7074,1428,7.2,429,-9999,middle,10,33,152,2350,150,-9999,-9999,-9999,-9999
+ORCA,2004,9,6,Blue Mountains,Bear Butte,203,none,none,44.2609,-119.6365,1400,7.69,414,-9999,top,0,5,38,550,50,-9999,-9999,-9999,-9999
+ORCA,2004,9,8,Blue Mountains,Camp Creek,204,none,none,44.6664,-118.8491,1346,7.42,478,-9999,top,0,10,52,2190,110,-9999,-9999,-9999,-9999
+ORCA,2004,9,8,Blue Mountains,Camp Creek,205,none,none,44.6769,-118.8223,1382,7.42,469,-9999,top,0,10,50,2040,110,-9999,-9999,-9999,-9999
+ORCA,2004,9,8,Blue Mountains,Camp Creek,205,none,none,44.6769,-118.8223,1382,7.42,469,-9999,middle,10,32,136,2350,160,-9999,-9999,-9999,-9999
+ORCA,2004,9,8,Blue Mountains,Camp Creek,206,none,none,44.6609,-118.8621,1415,7.33,501,-9999,top,0,5,27,1650,100,-9999,-9999,-9999,-9999
+ORCA,2004,9,8,Blue Mountains,Camp Creek,207,none,none,44.6513,-118.8808,1452,7.02,575,-9999,top,0,15,69,2870,120,-9999,-9999,-9999,-9999
+ORCA,2004,9,8,Blue Mountains,Camp Creek,207,none,none,44.6513,-118.8808,1452,7.02,575,-9999,middle,15,40,78,520,40,-9999,-9999,-9999,-9999
+ORCA,2004,9,8,Blue Mountains,Camp Creek,208,none,none,44.6541,-118.7914,1360,7.14,538,-9999,top,0,5,17,1500,80,-9999,-9999,-9999,-9999
+ORCA,2004,6,17,Blue Mountains,Strawberry Mountains,210,none,none,44.2093,-118.6343,1602,4.78,627,-9999,top,0,10,37,1830,90,-9999,-9999,-9999,-9999
+ORCA,2004,6,17,Blue Mountains,Strawberry Mountains,210,none,none,44.2093,-118.6343,1602,4.78,627,-9999,middle,10,50,248,5950,420,-9999,-9999,-9999,-9999
+ORCA,2004,6,17,Blue Mountains,Strawberry Mountains,210,none,none,44.2093,-118.6343,1602,4.78,627,-9999,bottom,50,65,81,1150,80,-9999,-9999,-9999,-9999
+ORCA,2004,6,16,Blue Mountains,Strawberry Mountains,211,none,none,44.2223,-118.6429,1653,4.78,627,-9999,top,0,15,69,2710,140,-9999,-9999,-9999,-9999
+ORCA,2004,6,16,Blue Mountains,Strawberry Mountains,211,none,none,44.2223,-118.6429,1653,4.78,627,-9999,middle,15,50,161,1450,110,-9999,-9999,-9999,-9999
+ORCA,2004,6,16,Blue Mountains,Strawberry Mountains,211,none,none,44.2223,-118.6429,1653,4.78,627,-9999,bottom,50,59,2,10,0,-9999,-9999,-9999,-9999
+ORCA,2004,6,17,Blue Mountains,Strawberry Mountains,212,none,none,44.1866,-118.6846,1678,4.91,584,-9999,top,0,15,74,2250,100,-9999,-9999,-9999,-9999
+ORCA,2004,6,17,Blue Mountains,Strawberry Mountains,212,none,none,44.1866,-118.6846,1678,4.91,584,-9999,middle,15,50,112,6450,180,-9999,-9999,-9999,-9999
+ORCA,2004,6,17,Blue Mountains,Strawberry Mountains,212,none,none,44.1866,-118.6846,1678,4.91,584,-9999,bottom,50,56,14,1640,30,-9999,-9999,-9999,-9999
+ORCA,2004,6,18,Blue Mountains,Strawberry Mountains,213,none,none,44.1873,-118.7127,1650,5.02,647,-9999,top,1,7,26,1460,60,-9999,-9999,-9999,-9999
+ORCA,2004,9,10,Blue Mountains,Bear Butte,214,none,none,44.4011,-120.3995,1298,6.41,510,-9999,top,0,15,78,2370,120,-9999,-9999,-9999,-9999
+ORCA,2004,9,10,Blue Mountains,Bear Butte,214,none,none,44.4011,-120.3995,1298,6.41,510,-9999,middle,15,30,41,740,60,-9999,-9999,-9999,-9999
+ORCA,2004,9,10,Blue Mountains,Bear Butte,215,none,none,44.4106,-120.3711,1391,6.3,584,-9999,top,0,15,60,2790,130,-9999,-9999,-9999,-9999
+ORCA,2004,9,10,Blue Mountains,Bear Butte,215,none,none,44.4106,-120.3711,1391,6.3,584,-9999,middle,15,32,111,1060,70,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,216,none,none,45.8561,-117.7896,1538,7.27,771,-9999,top,0,15,68,4260,210,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,216,none,none,45.8561,-117.7896,1538,7.27,771,-9999,middle,15,50,168,3830,270,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,216,none,none,45.8561,-117.7896,1538,7.27,771,-9999,bottom,50,65,110,1350,100,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,217,none,none,45.9477,-117.6706,1324,8.04,640,-9999,top,0,15,69,3660,130,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,217,none,none,45.9477,-117.6706,1324,8.04,640,-9999,middle,15,50,210,1830,130,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,217,none,none,45.9477,-117.6706,1324,8.04,640,-9999,bottom,50,70,50,330,20,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,218,none,none,45.8725,-117.777,1508,6.38,957,-9999,top,0,15,71,3630,160,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,218,none,none,45.8725,-117.777,1508,6.38,957,-9999,middle,15,50,242,2830,170,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,218,none,none,45.8725,-117.777,1508,6.38,957,-9999,bottom,50,103,302,1210,120,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,219,none,none,45.868,-117.8059,1571,6.39,945,-9999,top,0,15,65,3770,160,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,219,none,none,45.868,-117.8059,1571,6.39,945,-9999,middle,15,50,203,4380,240,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,219,none,none,45.868,-117.8059,1571,6.39,945,-9999,bottom,50,96,271,1900,160,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,220,none,none,45.8776,-117.7661,1498,6.38,957,-9999,top,0,15,62,3090,130,-9999,-9999,-9999,-9999
+ORCA,2004,7,12,Blue Mountains,Wenaha,220,none,none,45.8776,-117.7661,1498,6.38,957,-9999,middle,15,50,266,3540,210,-9999,-9999,-9999,-9999
+ORCA,2004,7,11,Blue Mountains,Halfway,221,none,none,45.008,-117.1439,1677,5,1147,-9999,top,0,15,63,2880,170,-9999,-9999,-9999,-9999
+ORCA,2004,7,11,Blue Mountains,Halfway,221,none,none,45.008,-117.1439,1677,5,1147,-9999,middle,15,35,132,3720,110,-9999,-9999,-9999,-9999
+ORCA,2004,7,11,Blue Mountains,Halfway,222,none,none,45.0084,-117.1406,1683,5,1147,-9999,top,1,9.4,35,2170,140,-9999,-9999,-9999,-9999
+ORCA,2004,7,11,Blue Mountains,Halfway,223,none,none,44.9945,-117.1367,1502,5.2,1115,-9999,top,0,15,71,4020,230,-9999,-9999,-9999,-9999
+ORCA,2004,7,11,Blue Mountains,Halfway,223,none,none,44.9945,-117.1367,1502,5.2,1115,-9999,middle,15,47,163,3670,310,-9999,-9999,-9999,-9999
+ORCA,2004,7,11,Blue Mountains,Halfway,224,none,none,44.9858,-117.1309,1397,5.2,1115,-9999,top,0,10,33,3070,150,-9999,-9999,-9999,-9999
+ORCA,2004,7,11,Blue Mountains,Halfway,224,none,none,44.9858,-117.1309,1397,5.2,1115,-9999,middle,10,30,118,3360,220,-9999,-9999,-9999,-9999
+ORCA,2004,7,11,Blue Mountains,Halfway,225,none,none,44.9725,-117.141,1341,6.74,851,-9999,top,0,15,71,1920,100,-9999,-9999,-9999,-9999
+ORCA,2004,7,11,Blue Mountains,Halfway,225,none,none,44.9725,-117.141,1341,6.74,851,-9999,middle,15,30,81,1820,100,-9999,-9999,-9999,-9999
+ORCA,2004,6,29,Klamath Mountains/California High North Coast Range,Brushy Mountain,226,none,none,40.8676,-123.3205,1381,10.56,1201,-9999,top,0,15,35,2540,80,-9999,-9999,-9999,-9999
+ORCA,2004,6,29,Klamath Mountains/California High North Coast Range,Brushy Mountain,227,none,none,40.8387,-123.3264,1220,10.6,1198,-9999,top,0,10,6,1140,30,-9999,-9999,-9999,-9999
+ORCA,2004,6,29,Klamath Mountains/California High North Coast Range,Brushy Mountain,227,none,none,40.8387,-123.3264,1220,10.6,1198,-9999,middle,10,30,106,14190,380,-9999,-9999,-9999,-9999
+ORCA,2004,6,29,Klamath Mountains/California High North Coast Range,Brushy Mountain,228,none,none,40.8317,-123.3261,1188,11.1,1160,-9999,top,0,10,20,930,40,-9999,-9999,-9999,-9999
+ORCA,2004,6,29,Klamath Mountains/California High North Coast Range,Brushy Mountain,228,none,none,40.8317,-123.3261,1188,11.1,1160,-9999,middle,10,44,320,7190,320,-9999,-9999,-9999,-9999
+ORCA,2004,6,29,Klamath Mountains/California High North Coast Range,Brushy Mountain,229,none,none,40.8264,-123.3266,1153,11.1,1160,-9999,top,0,10,30,1300,60,-9999,-9999,-9999,-9999
+ORCA,2004,6,29,Klamath Mountains/California High North Coast Range,Brushy Mountain,229,none,none,40.8264,-123.3266,1153,11.1,1160,-9999,middle,10,42,262,3490,160,-9999,-9999,-9999,-9999
+ORCA,2004,6,30,Klamath Mountains/California High North Coast Range,Brushy Ridge,230,none,none,40.3604,-123.062,1332,10.95,1119,-9999,top,0,8,16,700,20,-9999,-9999,-9999,-9999
+ORCA,2004,6,30,Klamath Mountains/California High North Coast Range,Brushy Ridge,230,none,none,40.3604,-123.062,1332,10.95,1119,-9999,middle,8,27,158,3370,90,-9999,-9999,-9999,-9999
+ORCA,2004,6,30,Klamath Mountains/California High North Coast Range,Brushy Ridge,231,none,none,40.3758,-123.064,1196,10.95,1096,-9999,top,0,15,48,1440,50,-9999,-9999,-9999,-9999
+ORCA,2004,6,30,Klamath Mountains/California High North Coast Range,Brushy Ridge,231,none,none,40.3758,-123.064,1196,10.95,1096,-9999,middle,15,50,231,1820,50,-9999,-9999,-9999,-9999
+ORCA,2004,6,30,Klamath Mountains/California High North Coast Range,Brushy Ridge,231,none,none,40.3758,-123.064,1196,10.95,1096,-9999,bottom,50,70,46,210,0,-9999,-9999,-9999,-9999
+ORCA,2004,6,30,Klamath Mountains/California High North Coast Range,Brushy Ridge,232,none,none,40.3777,-123.0563,1164,10.97,1233,-9999,top,0,15,98,2330,80,-9999,-9999,-9999,-9999
+ORCA,2004,6,30,Klamath Mountains/California High North Coast Range,Brushy Ridge,232,none,none,40.3777,-123.0563,1164,10.97,1233,-9999,middle,15,50,189,1660,80,-9999,-9999,-9999,-9999
+ORCA,2004,6,30,Klamath Mountains/California High North Coast Range,Brushy Ridge,232,none,none,40.3777,-123.0563,1164,10.97,1233,-9999,bottom,50,64,81,520,20,-9999,-9999,-9999,-9999
+ORCA,2004,6,30,Klamath Mountains/California High North Coast Range,Brushy Ridge,233,none,none,40.3636,-123.0623,1322,10.95,1119,-9999,top,0,10,20,1290,40,-9999,-9999,-9999,-9999
+ORCA,2004,6,30,Klamath Mountains/California High North Coast Range,Brushy Ridge,233,none,none,40.3636,-123.0623,1322,10.95,1119,-9999,middle,10,45,200,5270,140,-9999,-9999,-9999,-9999
+ORCA,2004,6,30,Klamath Mountains/California High North Coast Range,Brushy Ridge,234,none,none,40.3893,-123.1041,1332,10.76,1174,-9999,top,2,11.6,36,1390,40,-9999,-9999,-9999,-9999
+ORCA,2004,6,30,Klamath Mountains/California High North Coast Range,Brushy Ridge,235,none,none,40.3906,-123.0978,1339,10.76,1174,-9999,top,0,10,20,1310,40,-9999,-9999,-9999,-9999
+ORCA,2004,8,26,Sierra Nevada,Genessee,236,none,none,40.1329,-120.6875,1885,8.7,689,-9999,top,0,5,12,1570,50,-9999,-9999,-9999,-9999
+ORCA,2004,8,26,Sierra Nevada,Genessee,237,none,none,40.1268,-120.7283,2005,8.96,787,-9999,top,0,10,20,1520,50,-9999,-9999,-9999,-9999
+ORCA,2004,8,26,Sierra Nevada,Genessee,238,none,none,40.13,-120.6806,1877,8.7,689,-9999,top,0,15,81,2820,100,-9999,-9999,-9999,-9999
+ORCA,2004,8,26,Sierra Nevada,Genessee,238,none,none,40.13,-120.6806,1877,8.7,689,-9999,middle,15,22,29,750,20,-9999,-9999,-9999,-9999
+ORCA,2004,8,26,Sierra Nevada,Genessee,239,none,none,40.1284,-120.669,1746,8.7,689,-9999,top,0,15,81,1810,70,-9999,-9999,-9999,-9999
+ORCA,2004,8,26,Sierra Nevada,Genessee,239,none,none,40.1284,-120.669,1746,8.7,689,-9999,middle,15,50,214,3120,90,-9999,-9999,-9999,-9999
+ORCA,2004,8,26,Sierra Nevada,Genessee,240,none,none,40.1291,-120.6751,1768,8.7,689,-9999,top,0,15,69,3620,170,-9999,-9999,-9999,-9999
+ORCA,2004,8,26,Sierra Nevada,Genessee,240,none,none,40.1291,-120.6751,1768,8.7,689,-9999,middle,15,47,224,5690,270,-9999,-9999,-9999,-9999
+ORCA,2004,8,23,Cascades,Pine Creek Valley,241,none,none,40.6456,-121.106,1727,6.07,608,-9999,top,0,10,59,1860,80,-9999,-9999,-9999,-9999
+ORCA,2004,8,23,Cascades,Pine Creek Valley,241,none,none,40.6456,-121.106,1727,6.07,608,-9999,middle,10,28,137,2000,110,-9999,-9999,-9999,-9999
+ORCA,2004,8,23,Cascades,Pine Creek Valley,242,none,none,40.6308,-121.0992,1727,6.03,566,-9999,top,0,3,17,1090,30,-9999,-9999,-9999,-9999
+ORCA,2004,8,24,Cascades,Pine Creek Valley,243,none,none,40.6119,-121.0853,1770,6.01,570,-9999,top,0,10,50,2110,60,-9999,-9999,-9999,-9999
+ORCA,2004,8,23,Cascades,Pine Creek Valley,244,none,none,40.6089,-121.0671,1909,5.93,595,-9999,top,0,10,44,2020,70,-9999,-9999,-9999,-9999
+ORCA,2004,8,23,Cascades,Pine Creek Valley,245,none,none,40.6107,-121.0538,2018,5.88,617,-9999,top,0,5,29,1210,50,-9999,-9999,-9999,-9999
+ORCA,2004,7,25,Sierra Nevada,Picket Peak,246,none,none,38.7591,-119.9048,2584,5.02,1028,-9999,top,0,10,32,3060,120,-9999,-9999,-9999,-9999
+ORCA,2004,7,25,Sierra Nevada,Picket Peak,247,none,none,38.7391,-119.9139,2435,5.64,1049,-9999,top,0,5,28,2120,60,-9999,-9999,-9999,-9999
+ORCA,2004,7,25,Sierra Nevada,Picket Peak,248,none,none,38.7617,-119.9145,2468,5.79,1009,-9999,top,0,5,29,2050,110,-9999,-9999,-9999,-9999
+ORCA,2004,7,25,Sierra Nevada,Picket Peak,249,none,none,38.7627,-119.8952,2478,5.02,1028,-9999,top,0,15,45,1750,40,-9999,-9999,-9999,-9999
+ORCA,2004,7,25,Sierra Nevada,Picket Peak,249,none,none,38.7627,-119.8952,2478,5.02,1028,-9999,middle,15,50,193,13510,230,-9999,-9999,-9999,-9999
+ORCA,2004,7,25,Sierra Nevada,Picket Peak,250,none,none,38.7911,-120.017,2047,5.54,1234,-9999,top,0,15,92,1680,50,-9999,-9999,-9999,-9999
+ORCA,2004,7,25,Sierra Nevada,Picket Peak,250,none,none,38.7911,-120.017,2047,5.54,1234,-9999,middle,15,38,124,1370,40,-9999,-9999,-9999,-9999
+ORCA,2004,7,28,Sierra Nevada,West Emigrant,251,none,none,38.1751,-119.9439,2238,7.43,1358,-9999,top,0,15,53,4440,210,-9999,-9999,-9999,-9999
+ORCA,2004,7,28,Sierra Nevada,West Emigrant,251,none,none,38.1751,-119.9439,2238,7.43,1358,-9999,middle,15,28,18,820,40,-9999,-9999,-9999,-9999
+ORCA,2004,7,28,Sierra Nevada,West Emigrant,252,none,none,38.1765,-119.9778,1884,8.38,1233,-9999,top,0,15,54,3320,110,-9999,-9999,-9999,-9999
+ORCA,2004,7,28,Sierra Nevada,West Emigrant,252,none,none,38.1765,-119.9778,1884,8.38,1233,-9999,middle,15,50,217,4840,200,-9999,-9999,-9999,-9999
+ORCA,2004,7,28,Sierra Nevada,West Emigrant,252,none,none,38.1765,-119.9778,1884,8.38,1233,-9999,top,50,70,90,1510,50,-9999,-9999,-9999,-9999
+ORCA,2004,7,31,Sierra Nevada,Mammoth,253,none,none,37.7844,-118.9868,2488,5.28,459,-9999,top,0,15,54,1510,40,-9999,-9999,-9999,-9999
+ORCA,2004,7,31,Sierra Nevada,Mammoth,254,none,none,37.832,-118.8566,2707,4.56,595,-9999,top,0,15,89,1120,30,-9999,-9999,-9999,-9999
+ORCA,2004,7,31,Sierra Nevada,Mammoth,254,none,none,37.832,-118.8566,2707,4.56,595,-9999,middle,15,50,452,2620,90,-9999,-9999,-9999,-9999
+ORCA,2004,7,31,Sierra Nevada,Mammoth,254,none,none,37.832,-118.8566,2707,4.56,595,-9999,bottom,50,100,465,2190,50,-9999,-9999,-9999,-9999
+ORCA,2004,7,31,Sierra Nevada,Mammoth,255,none,none,37.8391,-118.9246,2486,4.91,518,-9999,top,0,15,62,1040,30,-9999,-9999,-9999,-9999
+ORCA,2004,7,29,Sierra Nevada,Leavitt,256,none,none,38.2905,-119.6067,2722,2.43,1316,-9999,top,0,15,54,3740,130,-9999,-9999,-9999,-9999
+ORCA,2004,7,29,Sierra Nevada,Leavitt,257,none,none,38.2889,-119.6079,2758,2.43,1316,-9999,top,0,15,39,3340,120,-9999,-9999,-9999,-9999
+ORCA,2004,7,29,Sierra Nevada,Leavitt,257,none,none,38.2889,-119.6079,2758,2.43,1316,-9999,middle,15,31,83,5030,240,-9999,-9999,-9999,-9999
+ORCA,2004,7,29,Sierra Nevada,Leavitt,258,none,none,38.2891,-119.6062,2751,2.43,1316,-9999,top,0,10,37,2420,90,-9999,-9999,-9999,-9999
+ORCA,2004,7,29,Sierra Nevada,Leavitt,258,none,none,38.2891,-119.6062,2751,2.43,1316,-9999,middle,10,50,368,13730,700,-9999,-9999,-9999,-9999
+ORCA,2004,7,29,Sierra Nevada,Leavitt,258,none,none,38.2891,-119.6062,2751,2.43,1316,-9999,bottom,50,70,112,3180,150,-9999,-9999,-9999,-9999
+ORCA,2004,7,28,Sierra Nevada,West Emigrant,259,none,none,38.1805,-119.9162,2289,7.03,1436,-9999,top,0,15,87,1710,80,-9999,-9999,-9999,-9999
+ORCA,2004,7,28,Sierra Nevada,West Emigrant,259,none,none,38.1805,-119.9162,2289,7.03,1436,-9999,middle,15,46,279,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2004,7,29,Sierra Nevada,Leavitt,260,none,none,38.2972,-119.6009,2651,3.39,1038,-9999,top,0,10,54,1450,70,-9999,-9999,-9999,-9999
+ORCA,2005,8,17,Sierra Nevada,Forest Hill,300,none,none,39.0808,-120.742,1235,13.53,1445,-9999,top,0,15,69,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,301,none,none,39.1209,-120.7397,1297,12.86,1487,-9999,top,0,15,68,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,302,none,none,39.1209,-120.7397,1297,12.86,1487,-9999,top,0,15,63,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,303,none,none,39.1205,-120.7211,1381,12.77,1503,-9999,top,0,15,69,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,304,none,none,39.107,-120.7478,1261,13.24,1467,-9999,top,0,15,63,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,305,none,none,39.1135,-120.7237,1366,12.77,1503,-9999,top,0,15,66,4370,170,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,306,none,none,39.1093,-120.7527,1257,13.53,1445,-9999,top,0,15,68,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,307,none,none,39.1104,-120.7483,1233,13.24,1467,-9999,top,0,15,57,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,308,none,none,39.0776,-120.7455,1176,13.53,1445,-9999,top,0,15,66,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,309,none,none,39.0785,-120.749,1182,13.53,1445,-9999,top,0,15,62,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,310,none,none,39.0683,-120.7498,1223,13.53,1445,-9999,top,0,15,68,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,310,none,none,39.0683,-120.7498,1223,13.53,1445,-9999,middle,15,50,133,5800,290,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,310,none,none,39.0683,-120.7498,1223,13.53,1445,-9999,bottom,50,78,221,3960,200,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,311,none,none,39.1018,-120.7446,1290,13.51,1446,-9999,top,0,15,77,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,312,none,none,39.0853,-120.737,1264,13.49,1433,-9999,top,0,15,83,-9999,-9999,-9999,-9999,-9999,-9999
+ORCA,2005,9,26,Sierra Nevada,Forest Hill,313,none,none,39.0916,-120.7349,1295,13.49,1433,-9999,top,0,15,80,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,26,Cascades,Metolius River,901,none,none,44.3696,-121.7863,1497,5.76,1969,86,top,0,20,154,5022,210,6.08,74,22,4
+METOFIRE,2007,7,26,Cascades,Metolius River,901,none,none,44.3696,-121.7863,1497,5.76,1969,86,middle,20,86,706,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,25,Cascades,Metolius River,902,none,none,44.3854,-121.7894,1287,6.3,1577,75,top,0,20,156,3534,158,6.29,78,20,3
+METOFIRE,2007,7,25,Cascades,Metolius River,902,none,none,44.3854,-121.7894,1287,6.3,1577,75,middle,20,75,660,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,13,Cascades,Metolius River,903,none,none,44.3905,-121.7909,1296,6.3,1577,50,top,0,20,164,2502,108,6.4,79,17,4
+METOFIRE,2007,7,13,Cascades,Metolius River,903,none,none,44.3905,-121.7909,1296,6.3,1577,50,middle,20,50,372,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,13,Cascades,Metolius River,904,none,none,44.3815,-121.7637,1369,6.65,1259,50,top,0,20,154,3472,184,6.57,80,19,1
+METOFIRE,2007,7,13,Cascades,Metolius River,904,none,none,44.3815,-121.7637,1369,6.65,1259,50,middle,20,50,453,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,2,Eastern Cascades Slopes and Foothills,Metolius River,905,none,none,44.4754,-121.7222,979,7.05,1128,86,top,0,20,160,2823,86,6.52,65,28,8
+METOFIRE,2007,8,2,Eastern Cascades Slopes and Foothills,Metolius River,905,none,none,44.4754,-121.7222,979,7.05,1128,86,middle,20,86,884,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,23,Eastern Cascades Slopes and Foothills,Metolius River,906,none,none,44.4701,-121.7201,990,7.21,840,38,top,0,20,158,3175,143,6.49,78,21,1
+METOFIRE,2007,7,23,Eastern Cascades Slopes and Foothills,Metolius River,906,none,none,44.4701,-121.7201,990,7.21,840,38,middle,20,38,187,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,6,Eastern Cascades Slopes and Foothills,Metolius River,907,none,none,44.5673,-121.6964,1122,7.18,1414,50,top,0,20,128,4103,180,6.61,73,25,3
+METOFIRE,2007,7,6,Eastern Cascades Slopes and Foothills,Metolius River,907,none,none,44.5673,-121.6964,1122,7.18,1414,50,middle,20,50,330,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,8,Eastern Cascades Slopes and Foothills,Metolius River,908,none,none,44.5492,-121.6378,930,8.27,596,63,top,0,20,178,2723,115,6.6,67,24,9
+METOFIRE,2007,7,8,Eastern Cascades Slopes and Foothills,Metolius River,908,none,none,44.5492,-121.6378,930,8.27,596,63,middle,20,63,684,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,7,Cascades,Metolius River,909,none,none,44.5512,-121.6342,928,8.55,595,30,top,0,20,166,2456,127,6.61,59,29,11
+METOFIRE,2007,7,7,Cascades,Metolius River,909,none,none,44.5512,-121.6342,928,8.55,595,30,middle,20,30,112,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,18,Eastern Cascades Slopes and Foothills,Metolius River,910,none,none,44.5269,-121.6558,1016,7.95,527,30,top,0,15,129,2644,99,6.62,63,28,10
+METOFIRE,2007,8,18,Eastern Cascades Slopes and Foothills,Metolius River,910,none,none,44.5269,-121.6558,1016,7.95,527,30,middle,15,30,206,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,11,Eastern Cascades Slopes and Foothills,Metolius River,911,none,none,44.5255,-121.6701,944,7.95,527,42,top,0,20,188,2953,140,6.4,60,29,11
+METOFIRE,2007,8,11,Eastern Cascades Slopes and Foothills,Metolius River,911,none,none,44.5255,-121.6701,944,7.95,527,42,middle,20,42,220,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,18,Eastern Cascades Slopes and Foothills,Metolius River,912,none,none,44.5268,-121.6631,973,7.95,527,50,top,0,20,174,2612,102,6.53,60,30,10
+METOFIRE,2007,8,18,Eastern Cascades Slopes and Foothills,Metolius River,912,none,none,44.5268,-121.6631,973,7.95,527,50,middle,20,50,363,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,24,Eastern Cascades Slopes and Foothills,Metolius River,913,none,none,44.4877,-121.6836,927,7.3,668,40,top,0,20,156,2641,74,6.5,73,24,4
+METOFIRE,2007,7,24,Eastern Cascades Slopes and Foothills,Metolius River,913,none,none,44.4877,-121.6836,927,7.3,668,40,middle,20,40,178,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,8,Eastern Cascades Slopes and Foothills,Metolius River,914,none,none,44.555,-121.6655,951,8.09,597,36,top,0,20,170,3119,103,6.47,56,29,15
+METOFIRE,2007,7,8,Eastern Cascades Slopes and Foothills,Metolius River,914,none,none,44.555,-121.6655,951,8.09,597,36,middle,20,36,205,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,23,Eastern Cascades Slopes and Foothills,Metolius River,915,none,none,44.4767,-121.7081,961,7.3,668,44,top,0,20,154,2880,111,6.4,70,26,4
+METOFIRE,2007,7,23,Eastern Cascades Slopes and Foothills,Metolius River,915,none,none,44.4767,-121.7081,961,7.3,668,44,middle,20,44,288,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,27,Eastern Cascades Slopes and Foothills,Metolius River,916,none,none,44.5272,-121.7223,1085,7.52,752,58,top,0,20,128,3799,150,6.56,67,29,4
+METOFIRE,2007,7,27,Eastern Cascades Slopes and Foothills,Metolius River,916,none,none,44.5272,-121.7223,1085,7.52,752,58,middle,20,58,570,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,24,Eastern Cascades Slopes and Foothills,Metolius River,917,none,none,44.5432,-121.7177,1162,7.8,937,50,top,0,20,128,4471,191,6.56,65,30,5
+METOFIRE,2007,7,24,Eastern Cascades Slopes and Foothills,Metolius River,917,none,none,44.5432,-121.7177,1162,7.8,937,50,middle,20,50,384,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,16,Cascades,Metolius River,918,none,none,44.5575,-121.7157,1229,7.8,937,50,top,0,20,130,3001,93,6.67,72,24,4
+METOFIRE,2007,7,16,Cascades,Metolius River,918,none,none,44.5575,-121.7157,1229,7.8,937,50,middle,20,50,294,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,12,Eastern Cascades Slopes and Foothills,Metolius River,919,none,none,44.5512,-121.742,1446,7.71,994,69,top,0,20,146,3618,124,6.45,74,22,4
+METOFIRE,2007,8,12,Eastern Cascades Slopes and Foothills,Metolius River,919,none,none,44.5512,-121.742,1446,7.71,994,69,middle,20,69,524,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,20,Cascades,Metolius River,920,none,none,44.501,-121.7698,1218,6.72,1505,30,top,0,20,132,3933,163,6.3,73,26,1
+METOFIRE,2007,8,20,Cascades,Metolius River,920,none,none,44.501,-121.7698,1218,6.72,1505,30,middle,20,30,66,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,16,Cascades,Metolius River,921,none,none,44.48,-121.7503,1083,7.05,1128,46,top,0,20,140,3426,123,6.4,70,28,3
+METOFIRE,2007,8,16,Cascades,Metolius River,921,none,none,44.48,-121.7503,1083,7.05,1128,46,middle,20,46,408,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,22,Cascades,Metolius River,922,none,none,44.4671,-121.7527,1180,7.05,1128,50,top,0,20,164,3248,151,6.76,70,25,5
+METOFIRE,2007,7,22,Cascades,Metolius River,922,none,none,44.4671,-121.7527,1180,7.05,1128,50,middle,20,50,408,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,12,Cascades,Metolius River,923,none,none,44.4296,-121.7366,1151,7.01,777,31,top,0,20,84,1892,53,6.21,86,11,3
+METOFIRE,2007,7,12,Cascades,Metolius River,923,none,none,44.4296,-121.7366,1151,7.01,777,31,middle,20,31,84,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,19,Cascades,Metolius River,924,none,none,44.4435,-121.7629,1278,6.36,1731,44,top,0,20,172,2411,54,6.5,80,19,1
+METOFIRE,2007,8,19,Cascades,Metolius River,924,none,none,44.4435,-121.7629,1278,6.36,1731,44,middle,20,44,235,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,1,Eastern Cascades Slopes and Foothills,Metolius River,925,none,none,44.6233,-121.5224,1077,8.16,610,42,top,0,15,125,2517,66,6.6,61,30,9
+METOFIRE,2007,8,1,Eastern Cascades Slopes and Foothills,Metolius River,925,none,none,44.6233,-121.5224,1077,8.16,610,42,middle,15,42,286,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,15,Eastern Cascades Slopes and Foothills,Metolius River,926,none,none,44.5647,-121.5343,1087,8.73,474,34,top,0,15,123,1605,61,6.36,64,24,11
+METOFIRE,2007,8,15,Eastern Cascades Slopes and Foothills,Metolius River,926,none,none,44.5647,-121.5343,1087,8.73,474,34,middle,15,34,200,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,15,Eastern Cascades Slopes and Foothills,Metolius River,927,none,none,44.5707,-121.5514,1180,7.59,864,24,top,0,15,122,1509,71,6.72,67,24,9
+METOFIRE,2007,7,15,Eastern Cascades Slopes and Foothills,Metolius River,927,none,none,44.5707,-121.5514,1180,7.59,864,24,middle,15,24,45,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,30,Eastern Cascades Slopes and Foothills,Metolius River,928,none,none,44.5962,-121.538,1135,8.56,565,27,top,0,20,176,2503,107,6.5,65,28,8
+METOFIRE,2007,7,30,Eastern Cascades Slopes and Foothills,Metolius River,928,none,none,44.5962,-121.538,1135,8.56,565,27,middle,20,27,103,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,14,Eastern Cascades Slopes and Foothills,Metolius River,929,none,none,44.5649,-121.4938,1077,8.75,463,34,top,0,15,141,1782,63,6.43,59,27,14
+METOFIRE,2007,8,14,Eastern Cascades Slopes and Foothills,Metolius River,929,none,none,44.5649,-121.4938,1077,8.75,463,34,middle,15,34,182,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,1,Eastern Cascades Slopes and Foothills,Metolius River,930,none,none,44.6222,-121.5157,1052,8.16,610,38,top,0,10,90,1734,39,6.8,65,26,9
+METOFIRE,2007,8,1,Eastern Cascades Slopes and Foothills,Metolius River,930,none,none,44.6222,-121.5157,1052,8.16,610,38,middle,10,38,182,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,31,Eastern Cascades Slopes and Foothills,Metolius River,931,none,none,44.6089,-121.5146,1060,8.62,545,26,top,0,15,132,2320,67,6.6,63,29,9
+METOFIRE,2007,7,31,Eastern Cascades Slopes and Foothills,Metolius River,931,none,none,44.6089,-121.5146,1060,8.62,545,26,middle,15,26,102,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,11,Eastern Cascades Slopes and Foothills,Metolius River,932,none,none,44.5461,-121.6657,931,8.09,597,59,top,0,20,160,2475,121,6.6,62,27,11
+METOFIRE,2007,8,11,Eastern Cascades Slopes and Foothills,Metolius River,932,none,none,44.5461,-121.6657,931,8.09,597,59,middle,20,59,519,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,31,Eastern Cascades Slopes and Foothills,Metolius River,933,609,none,44.6004,-121.5326,1091,8.56,565,26,top,0,10,81,2024,77,6.5,66,28,6
+METOFIRE,2007,7,31,Eastern Cascades Slopes and Foothills,Metolius River,933,609,none,44.6004,-121.5326,1091,8.56,565,26,middle,10,26,194,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,31,Eastern Cascades Slopes and Foothills,Metolius River,934,608,none,44.5943,-121.5304,1072,8.56,565,28,top,0,15,147,2523,101,6.4,63,28,10
+METOFIRE,2007,7,31,Eastern Cascades Slopes and Foothills,Metolius River,934,608,none,44.5943,-121.5304,1072,8.56,565,28,middle,15,28,187,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,13,Eastern Cascades Slopes and Foothills,Metolius River,935,611,none,44.575,-121.539,1041,8.03,729,62,top,0,20,182,2894,107,6.5,68,25,8
+METOFIRE,2007,8,13,Eastern Cascades Slopes and Foothills,Metolius River,935,611,none,44.575,-121.539,1041,8.03,729,62,middle,20,62,609,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,13,Eastern Cascades Slopes and Foothills,Metolius River,936,607,none,44.5743,-121.5358,1028,8.57,564,47,top,0,20,166,2855,116,6.61,64,23,13
+METOFIRE,2007,8,13,Eastern Cascades Slopes and Foothills,Metolius River,936,607,none,44.5743,-121.5358,1028,8.57,564,47,middle,20,47,311,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,14,Eastern Cascades Slopes and Foothills,Metolius River,937,610,none,44.5685,-121.5271,1095,8.57,564,21,top,0,10,95,1629,51,6.71,69,19,11
+METOFIRE,2007,7,14,Eastern Cascades Slopes and Foothills,Metolius River,937,610,none,44.5685,-121.5271,1095,8.57,564,21,middle,10,21,119,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,15,Eastern Cascades Slopes and Foothills,Metolius River,938,605,none,44.573,-121.518,978,8.57,564,43,top,0,20,186,2736,96,6.56,64,27,9
+METOFIRE,2007,7,15,Eastern Cascades Slopes and Foothills,Metolius River,938,605,none,44.573,-121.518,978,8.57,564,43,middle,20,43,235,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,14,Eastern Cascades Slopes and Foothills,Metolius River,939,604,none,44.5592,-121.5051,1096,8.75,463,29,top,0,20,180,2435,168,6.5,61,26,13
+METOFIRE,2007,8,14,Eastern Cascades Slopes and Foothills,Metolius River,939,604,none,44.5592,-121.5051,1096,8.75,463,29,middle,20,29,104,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,13,Eastern Cascades Slopes and Foothills,Metolius River,940,603,none,44.5799,-121.5024,909,9.09,477,47,top,0,20,224,1870,101,6.83,57,27,16
+METOFIRE,2007,8,13,Eastern Cascades Slopes and Foothills,Metolius River,940,603,none,44.5799,-121.5024,909,9.09,477,47,middle,20,47,335,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,15,Eastern Cascades Slopes and Foothills,Metolius River,941,601,none,44.5602,-121.5031,1100,8.75,463,32,top,0,20,170,2640,91,6.5,70,21,9
+METOFIRE,2007,8,15,Eastern Cascades Slopes and Foothills,Metolius River,941,601,none,44.5602,-121.5031,1100,8.75,463,32,middle,20,32,182,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,7,25,Cascades,Metolius River,942,none,none,44.4175,-121.7891,1246,6.36,1731,50,top,0,20,118,2982,87,6.3,83,14,4
+METOFIRE,2007,7,25,Cascades,Metolius River,942,none,none,44.4175,-121.7891,1246,6.36,1731,50,middle,20,50,258,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,18,Eastern Cascades Slopes and Foothills,Metolius River,943,none,none,44.5015,-121.6767,920,7.44,656,50,top,0,20,164,2514,127,6.31,69,29,3
+METOFIRE,2007,8,18,Eastern Cascades Slopes and Foothills,Metolius River,943,none,none,44.5015,-121.6767,920,7.44,656,50,middle,20,50,477,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,12,Eastern Cascades Slopes and Foothills,Metolius River,944,none,none,44.5064,-121.698,938,7.4,673,50,top,0,20,142,3637,146,6.4,73,24,4
+METOFIRE,2007,8,12,Eastern Cascades Slopes and Foothills,Metolius River,944,none,none,44.5064,-121.698,938,7.4,673,50,middle,20,50,387,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,10,Cascades,Metolius River,945,none,none,44.4948,-121.7358,1060,7.1,1281,42,top,0,20,152,3241,138,6.85,66,29,5
+METOFIRE,2007,8,10,Cascades,Metolius River,945,none,none,44.4948,-121.7358,1060,7.1,1281,42,middle,20,42,180,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,19,Eastern Cascades Slopes and Foothills,Metolius River,946,none,none,44.4559,-121.7115,973,7.02,864,50,top,0,20,132,2365,104,6.66,74,22,4
+METOFIRE,2007,8,19,Eastern Cascades Slopes and Foothills,Metolius River,946,none,none,44.4559,-121.7115,973,7.02,864,50,middle,20,50,390,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,16,Eastern Cascades Slopes and Foothills,Metolius River,947,none,none,44.4023,-121.723,1100,7.01,777,31,top,0,20,128,2378,89,6.33,85,13,3
+METOFIRE,2007,8,16,Eastern Cascades Slopes and Foothills,Metolius River,947,none,none,44.4023,-121.723,1100,7.01,777,31,middle,20,31,116,-9999,-9999,-9999,-9999,-9999,-9999
+METOFIRE,2007,8,18,Cascades,Metolius River,948,none,none,44.4786,-121.7574,1129,6.98,1189,50,top,0,20,150,4334,189,6.35,72,23,5
+METOFIRE,2007,8,18,Cascades,Metolius River,948,none,none,44.4786,-121.7574,1129,6.98,1189,50,middle,20,50,339,-9999,-9999,-9999,-9999,-9999,-9999
