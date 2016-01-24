@@ -3,7 +3,6 @@
 #This value uses plot specific foliar CN data for each species when availabile
 #if plot specific foliar CN is unavailable, it uses the data set mean for a given species. 
 
-soil<- read.csv('NACP_TERRA-PNW_1292/data/NACP_TERRA_PNW_soil.csv')
 
 #DATA CLEAN UP#
 #First some data clean up to deal with unnecessary units row and converting character vectors to numeric. 
